@@ -1,0 +1,22 @@
+1-autenticidade
+criar uma autentificarão
+
+2-confidencialidade
+criptografando os dados
+
+3-disponibilidade
+comprando mais um servidor para o serviço
+
+4-irretratabilidade
+pondo um serviço de logins
+
+5-conformidade
+criptografando os dados pessoais dos clientes
+
+
+confidencialidade
+integridade
+disponibilidade
+autenticidade
+irretratabilidade
+conformidade
