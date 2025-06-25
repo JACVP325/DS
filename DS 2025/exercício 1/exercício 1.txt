@@ -1,17 +1,17 @@
-1-autenticidade
-criar uma autentificarão
+1-confidencialidade
+criar uma autentificarão de dois fatores
 
-2-confidencialidade
+2-intergridade
 criptografando os dados
 
 3-disponibilidade
-comprando mais um servidor para o serviço
+escabilidade
 
 4-irretratabilidade
-pondo um serviço de logins
+por um serviço de logins
 
 5-conformidade
-criptografando os dados pessoais dos clientes
+aplicar o RGPD e as auditorias
 
 
 confidencialidade
